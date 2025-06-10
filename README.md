@@ -15,7 +15,7 @@ go build
 
 ### REST API
 
-#### Get all data from the tablesave
+#### Get all data from the table
 
 ```
 POST /api/data/{table}
