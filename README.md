@@ -1,4 +1,5 @@
-SVAR Svelte Filter - Backend Demo
+Backend for SVAR FilterBuilder
+
 =======
 
 
@@ -9,7 +10,8 @@ SVAR Svelte Filter - Backend Demo
 - run the app
 
 ```bash
-./query
+go build
+./filter-backend-go
 ```
 
 ### REST API
