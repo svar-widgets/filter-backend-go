@@ -1,4 +1,4 @@
-SVAR Query - Backend Demo
+SVAR Svelte Filter - Backend Demo
 =======
 
 
